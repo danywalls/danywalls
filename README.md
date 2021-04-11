@@ -1,8 +1,8 @@
 ### Hello! 👋
 
 - 🔭 I’m currently working on Comandi :) 
-- 🌱 I’m currently learning Angular, D3, Typescript and CSS
-- 📫 How to reach me: @twitter
+- 🌱 I’m learning Angular, D3, Typescript, Rxjs and CSS
+- 📫 How to reach me: @twitter and personal blog http://danywalls.com
+- ⚡ Love NBA, working on mental health and productivity.
 
-- ⚡ Fun fact: I love NBA :D
 
