@@ -1,8 +1,6 @@
 ### Hi, I'm Dany Paredes! 👋
 
-- 🔭 I’m currently working on Comandi :) 
-- 🌱 I’m learning Angular, D3, Typescript, Rxjs and CSS
+- 🔭 I'm currently working on Comandi :) 
+- 🌱 I love working with Angular, D3, Typescript, Rxjs, and CSS
 - 📫 How to reach me: @twitter and personal blog http://danywalls.com
-- ⚡ Love NBA, working on mental health and productivity.
-
-
+- ⚡  Free time for Family, NBA, Terror Movies, and working on mental health and productivity.
