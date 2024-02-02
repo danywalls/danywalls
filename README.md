@@ -3,6 +3,11 @@
 I'm passionate about front-end development, specializing in building UI libraries and working with technologies like Angular, NgRx, Accessibility, and micro-frontends. In my free time, I enjoy writing content for the
 [Google Dev Library](https://devlibrary.withgoogle.com/authors/danywalls), [This Is Angular Community](https://dev.to/this-is-angular), [Kendo UI](https://www.telerik.com/blogs/author/dany-paredes), and sharing insights in my blog [www.danywalls.com](https://www.danywalls.com).
 
+**Awards:**
+
+- 🏆 Progress Champion 2024.
+- 🏅 Google Developer Expert (GDE) for Angular for 2022, 2023 & 2024.
+
 **Latest Angular and TypeScript Articles:**
 - [Simplify Routing Parameters in Angular Components](https://www.danywalls.com/input-binding-and-router-withcomponentinputbinding-in-angular)
 - [Add Router Animation Transitions for Navigation in Angular 17](https://www.danywalls.com/add-router-animation-transitions-for-navigation-in-angular-17)
