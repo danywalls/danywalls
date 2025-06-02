@@ -5,8 +5,8 @@ I'm passionate about front-end development, specializing in building UI librarie
 
 **Awards:**
 
-- 🏆 Progress Champion 2024.
-- 🏅 Google Developer Expert (GDE) in Angular for 2022, 2023 & 2024.
+- 🏆 Progress Champion 2024,2025.
+- 🏅 Google Developer Expert (GDE) in Angular for 2022, 2023, 2024, 2025.
 
 **Latest Angular and TypeScript Articles:**
 - [Simplify Routing Parameters in Angular Components](https://www.danywalls.com/input-binding-and-router-withcomponentinputbinding-in-angular)
