@@ -7,8 +7,9 @@
 - **Google Developer Expert (GDE) in Angular** (2022, 2023, 2024, 2025)
 
 ---
-
 ### ✍️ Latest Articles
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 ---
 
 ### 🛠️ What I'm Doing
