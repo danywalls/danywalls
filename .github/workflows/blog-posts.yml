@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -16,6 +16,8 @@ jobs:
         with:
           feed_list: "https://www.danywalls.com/rss.xml"
           max_post_count: 5
-          # El '\n' al final es la clave para el salto de línea
-          template: "- [$title]($url) — *$date*\n"
+          template: |
+            - [$title]($url) — *$date*
           date_format: "mmm d, yyyy"
+          committer_username: "github-actions[bot]"
+          committer_email: "github-actions[bot]@users.noreply.github.com"
