@@ -11,7 +11,7 @@
 
 ### ✍️ Latest Articles
 
-<!-- BLOG-POST-LIST:START -->- [How I Declutter My Digital and Developer Life for 2026](https://danywalls.com/digital-declutter-2025) — *Dec 27, 2025*- [2025 Yearly Recap](https://danywalls.com/2025-recap) — *Dec 21, 2025*- [Stop Duplicating Validation Logic in Next.js with Zod](https://danywalls.com/stop-duplicate-logic-nextjs-zod) — *Dec 21, 2025*- [Next.js Performance: What the Defaults Don’t Solve for You](https://danywalls.com/nextjs-performance-what-the-defaults-dont-solve-for-you) — *Dec 14, 2025*- [What I Learned: From AI Chat Demos to Real AI Products](https://danywalls.com/what-i-learned-from-ai-chat-demos-to-real-ai-products) — *Nov 30, 2025*<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 ### 🛠️ What I'm Doing
 
