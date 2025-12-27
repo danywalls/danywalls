@@ -1,8 +1,9 @@
 name: Latest blog post workflow
 on:
   schedule:
+    # Se ejecuta automáticamente a medianoche todos los días
     - cron: '0 0 * * *'
-  workflow_dispatch:
+  workflow_dispatch: # Permite ejecución manual desde la pestaña Actions
 
 jobs:
   update-readme-with-blog:
@@ -14,9 +15,11 @@ jobs:
       - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          # Usando tu URL específica de RSS
+          # URL de tu feed RSS
           feed_list: "https://www.danywalls.com/rss.xml"
           max_post_count: 5
-          # Formato: Título del artículo con link y la fecha al lado
-          template: "- [$title]($url) — *$date*"
+          # El prefijo '- ' crea la lista y '\n' asegura el salto de línea
+          template: "- [$title]($url) — *$date*\n"
           date_format: "mmm d, yyyy"
+          # Evita que falle por problemas de red temporales
+          retry_count: 3
