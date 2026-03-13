@@ -1,6 +1,5 @@
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/danywalls/danywalls/main/banner.png" width="100%" alt="Dany Paredes Banner" />
 
   # Dany Paredes
   **Software Engineer • GDE in Angular • Progress Champion • GenAI Security @ NeuralTrust**
