@@ -1,5 +1,6 @@
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/danywalls/danywalls/main/banner.png" width="100%" alt="Dany Paredes Banner" />
 
   # Dany Paredes
   **Software Engineer • GDE in Angular • Progress Champion • GenAI Security @ NeuralTrust**
@@ -56,15 +57,6 @@ I maintain a collection of repositories containing the source code for my **[Tel
 - 📊 **Data Visualization**: [play-with-kendo-ui-charts](https://github.com/danywalls/play-with-kendo-ui-charts) — Interactive charts with Kendo UI.
 - 📄 **PDF Mastering**: [export-data-pdf](https://github.com/danywalls/export-data-pdf) — Robust PDF export workflows in Angular.
 - 🔐 **Core Concepts**: [play-with-interceptors](https://github.com/danywalls/play-with-interceptors) — Global HTTP management.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danywalls&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danywalls&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
 ---
 
