@@ -1,47 +1,75 @@
-# Dany Paredes 👋
 
-**Software Engineer** | **Google Developer Expert (GDE) in Angular** | **Progress Champion** I specialize in building high-quality, accessible web applications and frontend architectures. My recent journey focuses on the powerful intersection of **AI and full-stack development**, exploring **Next.js**, **Zod**, and **Local AI** (Gemini Nano, Ollama) to build the next generation of intelligent web applications.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/danywalls/danywalls/main/banner.png" width="100%" alt="Dany Paredes Banner" />
 
-### 🏆 Awards & Recognitions
+  # Dany Paredes
+  **Software Engineer • GDE in Angular • Progress Champion • GenAI Security @ NeuralTrust**
 
-- 🏅 **Google Developer Expert (GDE) in Angular** (2022 - 2025)
-- 🏆 **Progress Champion** (2024 - 2025)
+  <p align="center">
+    <a href="https://linkedin.com/in/danywalls" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://twitter.com/danywalls" target="_blank">
+      <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="https://danywalls.dev" target="_blank">
+      <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://www.telerik.com/blogs/author/dany-paredes" target="_blank">
+      <img src="https://img.shields.io/badge/-Telerik-3178C6?style=flat-square&logo=telerik&logoColor=white" alt="Telerik" />
+    </a>
+    <a href="https://devlibrary.withgoogle.com/authors/danywalls" target="_blank">
+      <img src="https://img.shields.io/badge/-Google_Dev_Library-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Dev Library" />
+    </a>
+    <a href="https://dev.to/danywalls" target="_blank">
+      <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" alt="Dev.to" />
+    </a>
+  </p>
+</div>
 
 ---
 
-### ✍️ Latest Articles
+### 🙋‍♂️ About Me
 
-- **[How I Declutter My Digital and Developer Life for 2026](https://danywalls.com/digital-declutter-2025)** — _Dec 27, 2025_
-- **[2025 Yearly Recap](https://danywalls.com/2025-recap)** — _Dec 21, 2025_
-- **[Stop Duplicating Validation Logic in Next.js with Zod](https://danywalls.com/stop-duplicate-logic-nextjs-zod)** — _Dec 21, 2025_
-- **[Next.js Performance: What the Defaults Don't Solve for You](https://danywalls.com/nextjs-performance-what-the-defaults-dont-solve-for-you)** — _Dec 14, 2025_
-- **[What I Learned: From AI Chat Demos to Real AI Products](https://danywalls.com/what-i-learned-from-ai-chat-demos-to-real-ai-products)** — _Nov 30, 2025_
+Hi, I'm Dany! I specialize in building high-quality, accessible web applications and frontend architectures. Currently, I'm at **[NeuralTrust](https://neuraltrust.ai/)**, where I'm building the next generation of **GenAI Security** using my full-stack expertise to solve complex enterprise scenarios.
 
-### 🛠️ What I'm Doing
-
-- ✍️ **Writing:** Creating technical content with 1.4M+ total views, 150+ articles, and sharing insights on [Google Dev Library](https://devlibrary.withgoogle.com/authors/danywalls), [Telerik](https://www.telerik.com/blogs/author/dany-paredes), and [Dev.to](https://dev.to/danywalls).
-- 🎤 **Speaking:** Delivering tech talks at events worldwide (30+ talks), including Google I/O 2025 and Jaén DevFest.
-- 🏗️ **Building:** Evolving from AI chat demos to creating robust, real-world AI products with Next.js, TypeScript, and Local AI.
-- 🎯 **Exploring:** The intersection of AI and full-stack development, leveraging shared validation with Zod and Local AI technologies.
+- 🏆 **Google Developer Expert (GDE)** in Angular (2022 - 2025)
+- 🚀 **Progress Champion** (2024 - 2025)
+- ✍️ Technical Author with **1.4M+ views** across various platforms.
 
 ---
 
-### 🎙️ Discover my World
+### ✍️ Technical Contributions
 
-- 📚 [Google Dev Library](https://devlibrary.withgoogle.com/authors/danywalls) | 💻 [Telerik Blogs](https://www.telerik.com/blogs/author/dany-paredes) | 🚀 [Dev.to](https://dev.to/danywalls)
-- 📫 [LinkedIn](https://linkedin.com/in/danywalls) | [Twitter](https://twitter.com/danywalls) | 📸 [Instagram](https://danywalls.dev) | [GitHub](https://github.com/danywalls)
+I am passionate about sharing knowledge with the community through technical deep-dives and open-source projects:
+
+*   🌐 **[Personal Blog](https://danywalls.dev)**: Next.js, AI, and Web Security.
+*   💾 **[Google Dev Library](https://devlibrary.withgoogle.com/authors/danywalls)**: Curated open-source projects recognized by Google.
+*   💻 **[Telerik Author](https://www.telerik.com/blogs/author/dany-paredes)**: Advanced Angular and Performance guides.
+*   🚀 **[Dev.to Community](https://dev.to/danywalls)**: Sharing technical insights globally.
+
+---
+
+### 📚 Telerik Source Code Series
+I maintain a collection of repositories containing the source code for my **[Telerik Blog](https://www.telerik.com/blogs/author/dany-paredes)** articles.
+
+- 🤖 **Agentic Apps**: [agentic-app](https://github.com/danywalls/agentic-app) — AI-powered order support with Genkit.
+- 📊 **Data Visualization**: [play-with-kendo-ui-charts](https://github.com/danywalls/play-with-kendo-ui-charts) — Interactive charts with Kendo UI.
+- 📄 **PDF Mastering**: [export-data-pdf](https://github.com/danywalls/export-data-pdf) — Robust PDF export workflows in Angular.
+- 🔐 **Core Concepts**: [play-with-interceptors](https://github.com/danywalls/play-with-interceptors) — Global HTTP management.
 
 ---
 
 ### 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=danywalls&show_icons=true&theme=vibrant&hide_border=true" alt="Dany's GitHub stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danywalls&layout=compact&theme=vibrant&hide_border=true" alt="Top Langs" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danywalls&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danywalls&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Building the future of the web with AI and Community focus."</i><br>
+  Find more at <b>[danywalls.dev](https://danywalls.dev)</b>
+</p>
