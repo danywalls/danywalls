@@ -13,7 +13,7 @@ Hi, I'm Dany! I specialize in building high-quality, accessible web applications
 
 Ok, I love about sharing and learn with the community through content and tech talks:
 
-- 🌐 **[Personal Blog](https://danywalls.dev)**: Frontend, Cloud, AI, and CyberSecurity.
+- 🌐 **[Personal Blog](https://danywalls.com)**: Frontend, Cloud, AI, and CyberSecurity.
 - 💾 **[Google Dev Library](https://devlibrary.withgoogle.com/authors/danywalls)**: Curated open-source projects recognized by Google.
 - 💻 **[Telerik Author](https://www.telerik.com/blogs/author/dany-paredes)**: Advanced Angular and Performance guides.
 - 🚀 **[Dev.to Community](https://dev.to/danywalls)**: Sharing technical insights globally.
@@ -33,10 +33,10 @@ Since 2022 I’ve been actively involved in the developer community, speaking, w
 
 More details in my yearly recaps:
 
-- 2025: [https://danywalls.dev/2025-recap](https://danywalls.dev/2025-recap)
-- 2024: [https://danywalls.dev/2024-yearly-recap](https://danywalls.dev/2024-yearly-recap)
-- 2023: [https://danywalls.dev/2023-a-look-back-at-my-year](https://danywalls.dev/2023-a-look-back-at-my-year)
-- 2022: [https://danywalls.dev/my-yearly-summary-2022-edition](https://danywalls.dev/my-yearly-summary-2022-edition)
+- 2025: [https://danywalls.com/2025-recap](https://danywalls.com/2025-recap)
+- 2024: [https://danywalls.com/2024-yearly-recap](https://danywalls.com/2024-yearly-recap)
+- 2023: [https://danywalls.com/2023-a-look-back-at-my-year](https://danywalls.com/2023-a-look-back-at-my-year)
+- 2022: [https://danywalls.com/my-yearly-summary-2022-edition](https://danywalls.com/my-yearly-summary-2022-edition)
 
 ---
 
