@@ -8,8 +8,8 @@
 
 Hi, I'm Dany! I specialize in building high-quality, accessible web applications and frontend architectures. Currently, I'm at **[NeuralTrust](https://neuraltrust.ai/)**, where I'm building the next generation of **GenAI Security** using my full-stack expertise to solve complex enterprise scenarios.
 
-- **Google Developer Expert (Angular)** · 2022–2025, 2026
-- **Progress Champion** · 2024,2025.
+- 🏆 **Google Developer Expert (GDE)** in Angular (2022 - 2026)
+- 🚀 **Progress Champion** (2024-2025)
 
 Ok, I love about sharing and learn with the community through content and tech talks:
 
