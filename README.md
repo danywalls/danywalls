@@ -31,7 +31,6 @@ Since 2022 I’ve been actively involved in the developer community, speaking, w
   - 2023: 14 talks on Angular, Astro, Analog, updates, and more
   - 2024: 14 talks on Angular, JavaScript, and Kendo UI
   - 2025: a smaller but more focused set of talks while prioritizing health and sustainability
-  - Newsletter: **1,200+ subscribers** and **13.8K+ followers** across platforms
 
 More details in my yearly recaps:
 
