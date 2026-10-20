@@ -8,12 +8,12 @@
 
 I am a Software Engineer, Google Developer Expert (GDE) in Angular, and Progress Champion. I specialize in building high-quality, accessible web applications and frontend architectures.
 
-Right now, I'm working as a Full-Stack Engineer in healthcare, using .NET and Angular. I'm also spending a lot of time diving into Agent Observability.
+Right now, I'm a Full-Stack Engineer in healthcare, working with .NET and Angular. I'm also spending a lot of time diving into Agent Observability.
 
 - 🏆 **Google Developer Expert (GDE)** in Angular (2022 - 2026)
-- 🚀 **Progress Champion** (2024-2025)
+- 🚀 **Progress Champion** (2024-2026)
 
-Ok, I love about sharing and learn with the community through content and tech talks:
+Ok, I love sharing and learning with the community through content and tech talks:
 
 - 🌐 **[Personal Blog](https://danywalls.com)**: Frontend, Cloud, AI, and CyberSecurity.
 - 💾 **[Google Dev Library](https://devlibrary.withgoogle.com/authors/danywalls)**: Curated open-source projects recognized by Google.
