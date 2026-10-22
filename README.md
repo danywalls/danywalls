@@ -1,6 +1,6 @@
 ## Dany Paredes
 
-**Angular GDE • Software Engineer • Progress Champion • GenAI Security @ NeuralTrust**
+**Angular GDE • Software Engineer • Progress Champion
 
 ---
 
